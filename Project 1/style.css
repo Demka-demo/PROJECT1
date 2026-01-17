@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(69, 71, 73);
+    margin: 15px;
+}
+header{
+    height: 250px;
+}
+main{
+    height: 800px;
+}
+footer{
+    height: 250px;
+}
+.back-style{
+    margin: 20px;
+    background-color: rgb(35, 35, 35);
+    border-radius: 50px;
+}
+.grid-header{
+    margin: 10px;
+    width: 1080px;
+    height: 200px;
+    display: flex;
+}
+.col-left{
+    width: 250px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+}
+.col-center{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+}
+.col-right{
+    width: 250px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+}
+
+.grid-header div{
+    border-radius: 40px;
+    margin: 15px;
+}
